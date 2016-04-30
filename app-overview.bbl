@@ -209,6 +209,12 @@ L.~J. Cuddy and L.~L. Jacoby, ``When forgetting helps memory: An analysis of
   repetition effects,'' \emph{Journal of Verbal Learning and Verbal Behavior},
   vol.~21, no.~4, pp. 451--467, 1982.
 
+\bibitem{gradint}
+\BIBentryALTinterwordspacing
+S.~S. Brown. (2016) Gradint, a program for self-study of foreign languages.
+  [Online]. Available: \url{http://people.ds.cam.ac.uk/ssb22/gradint/}
+\BIBentrySTDinterwordspacing
+
 \bibitem{hannun2014deep}
 A.~Hannun, C.~Case, J.~Casper, B.~Catanzaro, G.~Diamos, E.~Elsen, R.~Prenger,
   S.~Satheesh, S.~Sengupta, A.~Coates \emph{et~al.}, ``Deep speech: Scaling up
@@ -296,5 +302,52 @@ C.~Callison-Burch and M.~Dredze, ``Creating speech and language data with
 \bibitem{surowiecki2005wisdom}
 J.~Surowiecki, \emph{The wisdom of crowds}.\hskip 1em plus 0.5em minus
   0.4em\relax Anchor, 2005.
+
+\bibitem{wikipimsleur}
+\BIBentryALTinterwordspacing
+Wikipedia. (2016) Pimsleur language programs. [Online]. Available:
+  \url{https://en.wikipedia.org/wiki/Pimsleur_Language_Programs}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wolfeclap}
+\BIBentryALTinterwordspacing
+N.~Wolfe. (2016) The celebrate language audio project. [Online]. Available:
+  \url{http://celebrate-language.com/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{garcia2013learning}
+I.~Garcia, ``Learning a language for free while translating the web. does
+  duolingo work?'' \emph{International Journal of English Linguistics}, vol.~3,
+  no.~1, p.~19, 2013.
+
+\bibitem{peacecorps}
+\BIBentryALTinterwordspacing
+P.~Corps. (2016) Pc live language resources. [Online]. Available:
+  \url{https://pclive.peacecorps.gov/pclive/index.php/library}
+\BIBentrySTDinterwordspacing
+
+\bibitem{fsi}
+\BIBentryALTinterwordspacing
+FSI. (2016) Foreign service institute language courses. [Online]. Available:
+  \url{https://fsi-languages.yojik.eu/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{livelingua}
+\BIBentryALTinterwordspacing
+L.~Lingua. (2016) Live lingua project. [Online]. Available:
+  \url{https://www.livelingua.com/project/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{ucla}
+\BIBentryALTinterwordspacing
+UCLA. (2016) Language materials project. [Online]. Available:
+  \url{http://www.lmp.ucla.edu/AboutLMP.aspx}
+\BIBentrySTDinterwordspacing
+
+\bibitem{celt}
+\BIBentryALTinterwordspacing
+U.~of~Indiana. (2016) Center for language technology. [Online]. Available:
+  \url{http://www.indiana.edu/~celtie/portal.html}
+\BIBentrySTDinterwordspacing
 
 \end{thebibliography}

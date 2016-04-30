@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.16)  30 APR 2016 13:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.16)  30 APR 2016 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -861,42 +861,42 @@ Underfull \hbox (badness 1275) in paragraph at lines 4--5
 
 
 ])
-(./app-overview.bbl
+(./proposed-system.tex [2]) (./app-overview.bbl
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
- [2]
+
 Underfull \hbox (badness 4846) in paragraph at lines 204--206
 []\T1/ptm/m/n/8 P. Woz-niak and K. Biedalak, ``The su-per-memo method-
  []
 
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
+[3])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
  (./app-overview.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 73.
 Package rerunfilecheck Info: File `app-overview.out' has not changed.
-(rerunfilecheck)             Checksum: E4C58FB6AFA3C7AC6DA58B90436A23F0;454.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
+(rerunfilecheck)             Checksum: C237E602E35FAEC9A27F8906FB5BB5DA;548.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
  ) 
 Here is how much of TeX's memory you used:
- 7414 strings out of 494953
- 103225 string characters out of 6180977
- 192261 words of memory out of 5000000
- 10493 multiletter control sequences out of 15000+600000
- 37484 words of font info for 63 fonts, out of 8000000 for 9000
+ 7451 strings out of 494953
+ 103658 string characters out of 6180977
+ 192545 words of memory out of 5000000
+ 10510 multiletter control sequences out of 15000+600000
+ 41893 words of font info for 71 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,8n,29p,2070b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,29p,2070b,440s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
 /times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.
 pfb>
-Output written on app-overview.pdf (3 pages, 83310 bytes).
+Output written on app-overview.pdf (4 pages, 89362 bytes).
 PDF statistics:
- 200 PDF objects out of 1000 (max. 8388607)
- 189 compressed objects within 2 object streams
- 71 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 244 PDF objects out of 1000 (max. 8388607)
+ 231 compressed objects within 3 object streams
+ 82 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
