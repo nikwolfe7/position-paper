@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: app-overview.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: bibblybib.bib
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in pedersenfar
+Warning--empty year in pedersenfar
+Warning--empty journal in pimsleur1971psychology
+Warning--empty journal in leepersonalized
+Warning--empty year in leepersonalized
+Warning--empty journal in wolfeapplause
+Warning--empty year in wolfeapplause
+Warning--empty journal in huimproved
+Warning--empty year in huimproved
+Warning--empty journal in renukadevirole
+Warning--empty year in renukadevirole
+Warning--empty journal in chan2016listen
+Warning--empty journal in leeds1990notes
+
+Done.
+You've used 57 entries,
+            4039 wiz_defined-function locations,
+            1104 strings with 16866 characters,
+and the built_in function-call counts, 36190 in all, are:
+= -- 2859
+> -- 829
+< -- 271
++ -- 446
+- -- 148
+* -- 1641
+:= -- 5562
+add.period$ -- 121
+call.type$ -- 57
+change.case$ -- 47
+chr.to.int$ -- 618
+cite$ -- 70
+duplicate$ -- 2705
+empty$ -- 3136
+format.name$ -- 181
+if$ -- 8306
+int.to.chr$ -- 0
+int.to.str$ -- 57
+missing$ -- 467
+newline$ -- 194
+num.names$ -- 57
+pop$ -- 1150
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 2850
+stack$ -- 0
+substring$ -- 1495
+swap$ -- 2030
+text.length$ -- 65
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 57
+warning$ -- 13
+while$ -- 172
+width$ -- 59
+write$ -- 519
+(There were 13 warnings)

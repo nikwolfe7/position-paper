@@ -1,0 +1,72 @@
+\documentclass[a4paper]{article}
+
+\usepackage{INTERSPEECH2015}
+
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage{float}
+\usepackage{amssymb,amsmath,bm}
+\usepackage{textcomp}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\graphicspath{ {png/} }
+
+\def\vec#1{\ensuremath{\bm{{#1}}}}
+\def\mat#1{\vec{#1}}
+\hypersetup{
+	hidelinks=true
+}
+
+\sloppy % better line breaks
+\ninept
+
+\title{Audio-Based Practical Language Learning:\\A Platform for Crowdsourced Data Acquisition and Personalized Education}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% If multiple authors, uncomment and edit the lines shown below.       %%
+%% Note that each line must be emphasized {\em } by itself.             %%
+%% (by Stephen Martucci, author of spconf.sty).                         %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makeatletter
+\def\name#1{\gdef\@name{#1\\}}
+\makeatother
+\name{{\em Nikolas Wolfe, Bhiksha Raj}}
+%%%%%%%%%%%%%%% End of required multiple authors changes %%%%%%%%%%%%%%%%%
+
+%\makeatletter
+%\def\name#1{\gdef\@name{#1\\}}
+%\makeatother \name{{\em Method Man$^1$, Dr. Dre$^2$}}
+%
+\address{Language Technologies Institute, 
+	Carnegie Mellon University\\
+  {\small \tt \{nwolfe, bhiksha\}@cs.cmu.edu}
+}
+
+%\twoauthors{Karen Sp\"{a}rck Jones.}{Department of Speech and Hearing \\
+%  Brittania University, Ambridge, Voiceland \\
+%  {\small \tt Karen@sh.brittania.edu} }
+%  {Rose Tyler}{Department of Linguistics \\
+%  University of Speechcity, Speechland \\
+%  {\small \tt RTyler@ling.speech.edu} }
+
+%
+\begin{document}
+
+\maketitle
+\input{abstract.tex}
+\input{introduction.tex}
+\input{methodology.tex}
+%\input{experiments.tex}
+%\input{results.tex}
+%\input{discussion.tex}
+%\input{conclusion.tex}
+%\input{acknowledgements.tex}
+
+%\pagebreak
+\eightpt
+  \bibliographystyle{IEEEtran}
+  
+  \bibliography{bibblybib}
+
+\end{document}
