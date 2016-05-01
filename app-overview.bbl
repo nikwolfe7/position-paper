@@ -56,6 +56,29 @@ L.~von Ahn, ``Duolingo: learn a language for free while helping to translate
   Intelligent user interfaces}.\hskip 1em plus 0.5em minus 0.4em\relax ACM,
   2013, pp. 1--2.
 
+\bibitem{brown1996performance}
+G.~Brown, K.~Malmkjaer, and J.~Williams, \emph{Performance and competence in
+  second language acquisition}.\hskip 1em plus 0.5em minus 0.4em\relax
+  Cambridge university press, 1996.
+
+\bibitem{renukadevirole}
+D.~Renukadevi, ``The role of listening in language acquisition; the challenges
+  \& strategies in teaching listening.''
+
+\bibitem{feyten1991power}
+C.~M. Feyten, ``The power of listening ability: An overlooked dimension in
+  language acquisition,'' \emph{The modern language journal}, vol.~75, no.~2,
+  pp. 173--180, 1991.
+
+\bibitem{nunan2002listening}
+D.~Nunan, ``Listening in language learning,'' \emph{Methodology in language
+  teaching: An anthology of current practice}, pp. 238--241, 2002.
+
+\bibitem{ferris1996academic}
+D.~Ferris and T.~Tagg, ``Academic listening/speaking tasks for esl students:
+  Problems, suggestions, and implications,'' \emph{TESOL Quarterly}, pp.
+  297--320, 1996.
+
 \bibitem{pimsleur2013learn}
 P.~Pimsleur, \emph{How to learn a foreign language}.\hskip 1em plus 0.5em minus
   0.4em\relax Simon and Schuster, 2013.
@@ -168,29 +191,6 @@ J.~Bernstein, M.~Cohen, H.~Murveit, D.~Rtischev, and M.~Weintraub, ``Automatic
   evaluation and training in english pronunciation.'' in \emph{ICSLP}, vol.~90,
   1990, pp. 1185--1188.
 
-\bibitem{brown1996performance}
-G.~Brown, K.~Malmkjaer, and J.~Williams, \emph{Performance and competence in
-  second language acquisition}.\hskip 1em plus 0.5em minus 0.4em\relax
-  Cambridge university press, 1996.
-
-\bibitem{renukadevirole}
-D.~Renukadevi, ``The role of listening in language acquisition; the challenges
-  \& strategies in teaching listening.''
-
-\bibitem{feyten1991power}
-C.~M. Feyten, ``The power of listening ability: An overlooked dimension in
-  language acquisition,'' \emph{The modern language journal}, vol.~75, no.~2,
-  pp. 173--180, 1991.
-
-\bibitem{nunan2002listening}
-D.~Nunan, ``Listening in language learning,'' \emph{Methodology in language
-  teaching: An anthology of current practice}, pp. 238--241, 2002.
-
-\bibitem{ferris1996academic}
-D.~Ferris and T.~Tagg, ``Academic listening/speaking tasks for esl students:
-  Problems, suggestions, and implications,'' \emph{TESOL Quarterly}, pp.
-  297--320, 1996.
-
 \bibitem{glanzer1971repetition}
 M.~Glanzer and A.~Duarte, ``Repetition between and within languages in free
   recall,'' \emph{Journal of Verbal Learning and Verbal Behavior}, vol.~10,
@@ -208,12 +208,6 @@ P.~Wozniak and K.~Biedalak, ``The supermemo method-optimization of learning,''
 L.~J. Cuddy and L.~L. Jacoby, ``When forgetting helps memory: An analysis of
   repetition effects,'' \emph{Journal of Verbal Learning and Verbal Behavior},
   vol.~21, no.~4, pp. 451--467, 1982.
-
-\bibitem{gradint}
-\BIBentryALTinterwordspacing
-S.~S. Brown. (2016) Gradint, a program for self-study of foreign languages.
-  [Online]. Available: \url{http://people.ds.cam.ac.uk/ssb22/gradint/}
-\BIBentrySTDinterwordspacing
 
 \bibitem{hannun2014deep}
 A.~Hannun, C.~Case, J.~Casper, B.~Catanzaro, G.~Diamos, E.~Elsen, R.~Prenger,
@@ -302,6 +296,10 @@ C.~Callison-Burch and M.~Dredze, ``Creating speech and language data with
 \bibitem{surowiecki2005wisdom}
 J.~Surowiecki, \emph{The wisdom of crowds}.\hskip 1em plus 0.5em minus
   0.4em\relax Anchor, 2005.
+
+\bibitem{baker19931}
+C.~Baker, ``1 bilingual education in wales,'' \emph{European models of
+  bilingual education}, vol.~92, p.~7, 1993.
 
 \bibitem{wikipimsleur}
 \BIBentryALTinterwordspacing
